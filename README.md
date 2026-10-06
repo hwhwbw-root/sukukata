@@ -1,7 +1,4 @@
-> [!CAUTION]
-> **ARCHIVED** Checkout [Imaluum V2](https://github.com/nrmnqdds/imaluum-v2) for latest version
-
-# Welcome to Simplified i-Ma'luum 🌟
+# Welcome to Simplified i-Ma'luum V2 🌟
 
 <img src="https://github.com/nrmnqdds/simplified-imaluum/assets/65181897/2ad4fedc-1018-4779-b94a-5aae6f2944a3" width=100 />
 
@@ -9,17 +6,13 @@
 > [!IMPORTANT]
 > This project is **not** associated with the official i-Ma'luum website!
 
-> [!NOTE]
-> Beta version available at https://imaluum-beta.nrmnqdds.com
-
 Support this project!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nrmnqdds)
 
 Simplified i-Ma'luum is a stunning recreation of the university website "i-Ma'luum", designed with a focus on providing an enhanced user experience through a beautiful UI and intuitive navigation. This project aims to simplify the way users interact with the university's online information system, making it more accessible and user-friendly. Inspired by the original i-Ma'luum website, designed for an enhanced user experience.
 
-
-[demo](https://github.com/nrmnqdds/simplified-imaluum/assets/65181897/126caa42-d05f-4278-856b-cb7a60213972)
+<!--- [demo](https://github.com/nrmnqdds/simplified-imaluum/assets/65181897/126caa42-d05f-4278-856b-cb7a60213972) --->
 
 ## Features 🚀
 
@@ -40,17 +33,17 @@ Simplified i-Ma'luum is a stunning recreation of the university website "i-Ma'lu
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/nrmnqdds/simplified-i-maluum.git
+   git clone https://github.com/nrmnqdds/imaluum-v2.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```
-   cd simplified-i-maluum
+   cd imaluum-v2
    ```
 
 3. **Open the Website**:
-   - Simply open run `npm install && npm run dev` in the terminal.
+   - Simply open run `pnpm install && pnpm dev` in the terminal.
    - Voila! You're now experiencing Simplified i-Ma'luum.
 
 ## Contributing 👥
@@ -66,12 +59,3 @@ Contributions are welcome and encouraged! Whether you're a developer, designer, 
 ## Feedback 💬
 
 We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using Simplified i-Ma'luum, please don't hesitate to open an issue on this repository. Your input is essential to help us grow and improve.
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-[![GitHub Stars](https://img.shields.io/github/stars/nrmnqdds/simplified-imaluum.svg)](https://github.com/nrmnqdds/simplified-imaluum/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/nrmnqdds/simplified-imaluum.svg)](https://github.com/nrmnqdds/simplified-imaluum/network/members)
